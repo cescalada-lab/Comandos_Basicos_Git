@@ -1,7 +1,7 @@
 # Comandos básicos de Git:
 
 ## Clonar repositorio
-`git clone https://github.com/ivigilante/curso-python-itba`
+`git clone https://github.com/cescalada-lab/Comandos_Basicos_Git.git`
 
 Este comando crea el repositorio git en tu computadora.
 
@@ -50,7 +50,7 @@ Este comando muestra las ramas que tenemos en nuestro repositorio local, si quer
 Primero debemos instalar Git si estamos usando Windows, luego:
 
 ````
-git clone https://github.com/cescalada-lab/Comandos_Basicos_Git
+git clone https://github.com/cescalada-lab/Comandos_Basicos_Git.git
 ````
 
 ``cd Comandos_Basicos_Git``
