@@ -17,7 +17,7 @@ Este comando agrega el archivo a la lista de cambios que haremos
 
 ``git commit -m "MENSAJE PARA NUESTRO CAMBIO"``
 
-Este comando agrega un mensaje al cambio que haremos para que sea mas entendible que hicimos
+Este comando agrega un mensaje al cambio que haremos para que sea más entendible que hicimos
 
 ``git push``
 
@@ -26,7 +26,7 @@ Este comando sube los cambios al repositorio remoto
 ## Cambiar rama de trabajo
 ``git checkout RAMA``
 
-Este comando nos permite cambiar a otra rama de trabajo, util cuando queremos trabajar con varias personas a la vez.
+Este comando nos permite cambiar a otra rama de trabajo, útil cuando queremos trabajar con varias personas a la vez.
 
 ## Crear una nueva rama de trabajo
 ``git checkout -b RAMA_NUEVA``
@@ -36,14 +36,14 @@ Este comando crea una rama nueva de trabajo
 ## Ver ramas de trabajo actuales en el repositorio local
 ``git branch``
 
-Este comando muestra las ramas que tenemos en nuestro repositorio local, si queremos una que esta en el remoto, deberemos hacer:
+Este comando muestra las ramas que tenemos en nuestro repositorio local, si queremos una que está en el remoto, deberemos hacer:
 
 ``git checkout RAMA_QUE_QUEREMOS``
 
 ## Ver estado de nuestro repositorio local
 ``git status``
 
-Util para ver diferencias y cambios con el repositorio remoto
+Útil para ver diferencias y cambios con el repositorio remoto
 
 # Empezar a trabajar!
 
@@ -63,12 +63,9 @@ Esto es para crear una rama. Si me llamo Christian Boanerges sería cboanerges
 
 ``git status`` 
 
-nos dira que archivos tenemos modificados
-
 ``git add LosArchivos``
-
-Agrega Archivos al Repositorio
 
 ``git commit -m "MensajeParaElCambio"``
 
 ``git push``
+
